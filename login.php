@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>login page</title>
+		<title>login page </title>
 		<?php include 'includes/head.php';?>
 	</head>
      	<body class="lobody">
