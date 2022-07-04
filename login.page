@@ -12,7 +12,7 @@
 <body>
 
 <div class="container">
-  <h2>Fading Modal</h2>
+  <h2>Fading Modal </h2>
   <p>Add the "fade" class to the modal container if you want the modal to fade in on open and fade out on close.</p>
 
   <!-- Button to Open the Modal -->
